@@ -1,0 +1,24 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#pageheader {
+	background-image: url(img/headerpic.jpg);
+	background-size: 100% 100%;
+	background-position: fixed;
+	background-repeat: no-repeat;
+}
+
+.round-img-text{
+	color: #101058; 
+	font-family: Arial Black; 
+	font-size: 15px;
+}
+
+#new-arrivals {
+	background-image: url(img/box.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: fixed;
+}
